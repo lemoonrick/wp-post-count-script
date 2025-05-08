@@ -1,2 +1,8 @@
 # wp-post-count-script
-A simple python script to get total number of blog posts from WordPress site. at my work they used to give me this boring task to get the count from all the sites so I automated it 
+
+## Use requirements.txt to install the requests package to get this script to work.
+
+## use virtual environment to install packages
+
+
+A simple Python script to get the total number of blog posts from a WordPress site.
