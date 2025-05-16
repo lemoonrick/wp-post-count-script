@@ -2,11 +2,11 @@ import requests
 
 # List of your WordPress site URLs (no trailing slashes)
 wordpress_sites = [
-    # Add yopur sites here
+    # Add your sites here
 
     # India sitees
 
-    "https://www.factcrescendo.com",
+    "https://factcrescendo.com",
     "https://english.factcrescendo.com",
     "https://marathi.factcrescendo.com",
     "https://malayalam.factcrescendo.com",
